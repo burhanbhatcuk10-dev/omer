@@ -7,15 +7,15 @@ export default function Schedule({ theme }) {
     {
       date: "October 21, 2026",
       time: "6:00 PM Onwards",
-      title: "Reception & Welcoming",
+      title: "Mehndiraat",
       desc: "Join us for dinner and celebrations as we welcome our honored guests.",
       location: "Residence, New Colony Vessu, Anantnag"
     },
     {
       date: "October 22, 2026",
       time: "11:00 AM Onwards",
-      title: "Nikah & Wedding Ceremony",
-      desc: "Witness the blessed solemnization of Nikah followed by traditional feast.",
+      title: "Wedding Ceremony",
+      desc: "Witness the blessed Wedding followed by traditional feast.",
       location: "Residence, New Colony Vessu, Anantnag"
     }
   ];
