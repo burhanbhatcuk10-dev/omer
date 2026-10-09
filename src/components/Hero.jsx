@@ -38,7 +38,7 @@ export default function Hero({ theme }) {
           transition={{ duration: 1, delay: 0.2 }}
           className={`font-serif text-5xl sm:text-7xl md:text-8xl font-bold tracking-tight ${isEmerald ? 'text-emerald-100' : 'text-rose-950'}`}
         >
-          Omer <span className="font-light italic text-rose-500 animate-pulse">&amp;</span> Sameena
+          Omer <span className="font-light italic text-rose-500 animate-pulse">&amp;</span> Menu
         </motion.h1>
 
         <motion.p 
