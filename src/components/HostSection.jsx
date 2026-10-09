@@ -17,7 +17,8 @@ export default function HostSection({ theme }) {
           <Heart className="w-3.5 h-3.5 fill-rose-600 animate-ping" /> Cordially Invites You <Heart className="w-3.5 h-3.5 fill-rose-600 animate-ping" />
         </h3>
         <h2 className="font-serif text-3xl sm:text-4xl font-bold mb-4 shimmer-text">
-          Mr. &amp; Mrs.<br> AB Rashid Bhat
+          Mr. &amp; Mrs.
+          AB Rashid Bhat
         </h2>
         <div className="w-24 h-0.5 bg-gradient-to-r from-transparent via-rose-400 to-transparent mx-auto my-4"></div>
         <p className="text-base sm:text-lg leading-relaxed opacity-90 font-light">
