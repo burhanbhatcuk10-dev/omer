@@ -4,7 +4,8 @@ import { MessageSquareHeart, Send } from 'lucide-react';
 export default function WishesWall({ theme }) {
   const [wishes, setWishes] = useState([
     { name: "Aidah Farooq", message: "May Allah bless your marriage and fill your home with perpetual joy and harmony!", time: "Today" },
-    { name: "Tariq Ahmad", message: "Heartiest congratulations to Omer and Menu! Barakallah lakuma.", time: "Yesterday" }
+    { name: "Mohammad Hazik", message: "Heartiest congratulations to Omer and Menu! Barakallah lakuma.", time: "Yesterday" }
+    { name: "Mohammad Hasnain", message: "Hmmmmmmmmmm", time: "Yesterday" }
   ]);
   const [author, setAuthor] = useState('');
   const [text, setText] = useState('');
