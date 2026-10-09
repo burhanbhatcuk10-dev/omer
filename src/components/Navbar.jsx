@@ -10,7 +10,7 @@ export default function Navbar({ currentTheme, setTheme }) {
           <div className="w-8 h-8 rounded-full bg-rose-100 flex items-center justify-center text-rose-600 shadow-inner">
             <Heart className="w-4 h-4 fill-rose-600 animate-pulse" />
           </div>
-          <span className="tracking-wide">Omer &amp; Sameena</span>
+          <span className="tracking-wide">Omer &amp; Menu</span>
         </div>
         
         <div className="flex items-center gap-2 bg-white/80 px-3 py-1.5 rounded-full border border-rose-200 shadow-xs">
